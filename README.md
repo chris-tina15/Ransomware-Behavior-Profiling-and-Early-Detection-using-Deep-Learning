@@ -404,6 +404,19 @@ Further validation using diverse real-world samples is required.
 Real-time deployment requires additional monitoring and optimization.
 Early-detection capability requires dedicated experiments across different execution stages.
 
+🛡️ Security and Ethical Considerations
+
+This project is intended strictly for:
+
+Cybersecurity research
+Academic experimentation
+Defensive malware analysis
+Ransomware detection research
+Security education
+
+Ransomware experimentation should only be performed inside isolated and controlled environments, such as dedicated virtual machines or malware-analysis sandboxes.
+
+The project must not be used to deploy, distribute, or facilitate ransomware.
 
 
 
